@@ -168,7 +168,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## Self-Promotion
 
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
+If you liked this project, star it [GitHub](https://github.com/Roshanjossey/first-contributions).
 If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
